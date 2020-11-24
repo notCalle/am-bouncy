@@ -1,0 +1,5 @@
+title = "Bouncy Box"
+author = "Calle Englund"
+shortname = "am-bouncy"
+version = "1.0.0"
+copyright_message = "Copyright (c) 2020 Calle Englund"
